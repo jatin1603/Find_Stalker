@@ -17,4 +17,10 @@ Project is based on social engineering technique, means trying to manipulate tar
 
 •Extracted from Email - Name, Email, Photo, Phone Number
 
-• Provided By User - Name, DOB, Address, Phone Number, Bank Account, Bank IFSC, Photo
+• Provided By User - Name, DOB, Address, Phone Number, Bank Account, Bank IFSC, Photo.
+
+
+
+![image](https://user-images.githubusercontent.com/79332951/204460022-4b52f171-575b-4261-8c41-5038fb906aaf.png)
+![image](https://user-images.githubusercontent.com/79332951/204460045-09cbe0dc-82ea-4c86-a410-4ea20d80150f.png)
+
