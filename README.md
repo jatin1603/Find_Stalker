@@ -7,6 +7,8 @@ Project is based on social engineering technique, means trying to manipulate tar
 
 
 **Information Extracted By App**
+
+
 ​ These are informations which app tries to extract. It might able to extract all or none as per availability.
 
 • Auto Extracted - Contacts, Call logs, SMS, GPS Location, Phone Number
